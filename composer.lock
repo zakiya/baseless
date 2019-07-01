@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7051ac34b3ff268be4806381984b0330",
+    "content-hash": "3e27c9def1ef144a3127d2fa41f18039",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -4534,7 +4534,7 @@
             "version": "1.8.7",
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/harvesthq/chosen/archive/master.zip"
+                "url": "https://github.com/harvesthq/chosen/releases/download/v1.8.7/chosen_v1.8.7.zip"
             },
             "type": "drupal-library"
         },
