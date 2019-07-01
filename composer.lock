@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0208d60edea04b919a99ea5098807ede",
+    "content-hash": "7051ac34b3ff268be4806381984b0330",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -4528,6 +4528,15 @@
                 "url"
             ],
             "time": "2018-12-04T20:46:45+00:00"
+        },
+        {
+            "name": "harvesthq/chosen",
+            "version": "1.8.7",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/harvesthq/chosen/archive/master.zip"
+            },
+            "type": "drupal-library"
         },
         {
             "name": "jakub-onderka/php-console-color",
