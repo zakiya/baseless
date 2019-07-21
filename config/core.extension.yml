@@ -14,6 +14,7 @@ module:
   config_direct_save: 0
   config_filter: 0
   config_split: 0
+  consumers: 0
   contact: 0
   contextual: 0
   datetime: 0
@@ -28,6 +29,7 @@ module:
   history: 0
   image: 0
   jsonapi: 0
+  jsonapi_extras: 0
   link: 0
   menu_ui: 0
   module_filter: 0
@@ -41,6 +43,8 @@ module:
   serialization: 0
   shortcut: 0
   simple_block: 0
+  simple_oauth: 0
+  simple_oauth_extras: 0
   system: 0
   taxonomy: 0
   text: 0
