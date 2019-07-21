@@ -42,6 +42,7 @@
         "drupal/google_analytics": "^3.0",
         "drupal/honeypot": "^1.29",
         "drupal/inline_entity_form": "^1.0@RC",
+        "drupal/jsonapi": "^2.4",
         "drupal/linkit": "^4.3",
         "drupal/login_emailusername": "^1.1",
         "drupal/media_entity_browser": "^1.0@beta",
