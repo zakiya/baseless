@@ -1,0 +1,8 @@
+name: 'baseless_content'
+type: module
+description: 'Default Content'
+core: 8.x
+package: 'Custom'
+
+dependencies:
+  - default_content
