@@ -1,0 +1,151 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/baseless.local\/node\/1?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/basic"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/basic\/revision_uid": [
+            {
+                "href": "http:\/\/baseless.local\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/basic\/uid": [
+            {
+                "href": "http:\/\/baseless.local\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "5eed988b-26ac-4461-a03c-b426dab97c1d"
+        }
+    ],
+    "vid": [
+        {
+            "value": 2
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "basic"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-08-08T17:02:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/basic\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/baseless.local\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "0782507b-d9de-4795-af26-deab6ca3e7bd"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/basic\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/baseless.local\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "0782507b-d9de-4795-af26-deab6ca3e7bd"
+                    }
+                ],
+                "lang": "en"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Online Services",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-08T16:39:31+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-08-08T17:02:15+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>ONLINE SERVICES<br \/>\r\nONLINE PAYMENT<br \/>\r\nMake your payment by signing up\/logging in&nbsp;here.<\/p>\r\n\r\n<p>CALENDAR INFORMATION<br \/>\r\nMaster alphabetical calendar of all courtrooms for the next business day.<\/p>\r\n\r\n<p>CALIFORNIA ONLINE SELF-HELP CENTER<br \/>\r\nThe Online Self-Help Center of the California Courts provides information on a wide range of legal matters.<\/p>\r\n\r\n<p>Learn more about&nbsp;traffic cases here.<\/p>\r\n\r\n<p>DEPARTMENT OF CONSUMER AFFAIRS<br \/>\r\nServices for renewing licenses, reading news and reports, filing complaints and more.<\/p>\r\n\r\n<p>CALIFORNIA CHILD SUPPORT SELF SERVICE<br \/>\r\nThe California Guideline Child Support Calculator is based on California Child Support Guidelines and can be used to estimate the amount of child support that may be ordered in your case.<\/p>\r\n",
+            "format": "basic_html",
+            "processed": "<p>ONLINE SERVICES<br \/>\nONLINE PAYMENT<br \/>\nMake your payment by signing up\/logging in\u00a0here.<\/p>\n\n<p>CALENDAR INFORMATION<br \/>\nMaster alphabetical calendar of all courtrooms for the next business day.<\/p>\n\n<p>CALIFORNIA ONLINE SELF-HELP CENTER<br \/>\nThe Online Self-Help Center of the California Courts provides information on a wide range of legal matters.<\/p>\n\n<p>Learn more about\u00a0traffic cases here.<\/p>\n\n<p>DEPARTMENT OF CONSUMER AFFAIRS<br \/>\nServices for renewing licenses, reading news and reports, filing complaints and more.<\/p>\n\n<p>CALIFORNIA CHILD SUPPORT SELF SERVICE<br \/>\nThe California Guideline Child Support Calculator is based on California Child Support Guidelines and can be used to estimate the amount of child support that may be ordered in your case.<\/p>",
+            "summary": "",
+            "lang": "en"
+        }
+    ]
+}

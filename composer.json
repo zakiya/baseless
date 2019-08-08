@@ -34,6 +34,7 @@
         "drupal/config_split": "^1.4",
         "drupal/console": "^1",
         "drupal/core": "^8",
+        "drupal/default_content": "^1.0@alpha",
         "drupal/dropzonejs": "^2.0@alpha",
         "drupal/entity_browser": "^2.1",
         "drupal/entity_embed": "^1.0@RC",
