@@ -14,6 +14,7 @@ module.exports = {
       },
     },
     `gatsby-transformer-sharp`,
+    'gatsby-plugin-material-ui',
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
@@ -28,7 +29,7 @@ module.exports = {
       },
       resolve: `gatsby-source-drupal`,
       options: {
-        baseUrl: `http://baseless.local`,
+        baseUrl: `http://baseless.local/`,
         apiBase: `jsonapi`, // optional, defaults to `jsonapi`
       },
     },
